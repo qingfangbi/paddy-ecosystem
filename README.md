@@ -1,1 +1,3 @@
 # paddy-ecosystem
+
+The data were derived from a four-year field experiment conducted in a subtropical paddy ecosystem characterized by a rice-rape rotation. Soil samples were collected following sustained application of six distinct fertilization regimes. We investigated the mechanisms through which fertilization regimes affect the relationship between soil microbial diversity and EMF. We measured soil abiotic properties, microbial community attributes (bacterial and fungal diversity, composition, keystone ecological clusters, and functional genes), and 24 ecosystem functions spanning plant productivity and nutrients, soil carbon and nutrient cycling, and enzymatic activities.
